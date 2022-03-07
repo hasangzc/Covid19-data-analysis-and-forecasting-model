@@ -14,4 +14,4 @@ Sample code;
 
 Some plots;
 {% include cases.html %}
-
+![](visualization_results/LocationPlots/cases.png)

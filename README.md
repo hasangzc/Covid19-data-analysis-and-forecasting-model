@@ -6,6 +6,9 @@ The Covid19 process has affected the whole world very badly. With this epidemic,
 ### Built with
 * Python
 
-### Usage
-```code```
+### Visualizations
+!This project used Argument Parser which works very well in Python.
+Turkey was selected as the location of my own printouts.
+Sample code;
+```python3 visualize.py --locatiom Turkey```
 

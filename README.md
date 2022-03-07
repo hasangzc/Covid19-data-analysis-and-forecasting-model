@@ -12,3 +12,5 @@ Turkey was selected as the location of my own printouts.
 Sample code;
 ```python3 visualize.py --location Turkey```
 
+Some plots;
+

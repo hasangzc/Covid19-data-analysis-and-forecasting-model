@@ -15,8 +15,7 @@ Sample code;
 Some plots;
 
 The following image was dynamically structured using the plotly library and saved in html format. You can examine it in more detail. New cases and total cases for Turkey from April 2020 to January 2022;
-![](visualization_results/LocationPlots/cases.png)
-<img src="visualization_results/LocationPlots/cases.png" width=1000>
+<img src="visualization_results/LocationPlots/cases.png" width=800 height=200>
 
 The following image was dynamically structured using the plotly library and saved in html format. You can examine it in more detail. New deaths and total deaths for Turkey from April 2020 to January 2022;
 ![](visualization_results/LocationPlots/deaths.png)

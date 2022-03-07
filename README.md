@@ -6,3 +6,6 @@ The Covid19 process has affected the whole world very badly. With this epidemic,
 ### Built with
 * Python
 
+### Usage
+```code```
+

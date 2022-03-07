@@ -13,4 +13,5 @@ Sample code;
 ```python3 visualize.py --location Turkey```
 
 Some plots;
+{% include cases.html %
 

@@ -18,7 +18,7 @@ The following image was dynamically structured using the plotly library and save
 <img src="visualization_results/LocationPlots/cases.png" width=800 height=400>
 
 The following image was dynamically structured using the plotly library and saved in html format. You can examine it in more detail. New deaths and total deaths for Turkey from April 2020 to January 2022;
-![](visualization_results/LocationPlots/deaths.png)
+<img src="visualization_results/LocationPlots/deaths.png" width=800 height=400>
 
 Cases and deaths for Turkey are compared in the plot below.
-![](visualization_results/LocationPlots/case_death_compare.png)
+<img src="visualization_results/LocationPlots/case_death_compare.png" width=800 height=400>

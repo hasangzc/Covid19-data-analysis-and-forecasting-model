@@ -2,6 +2,7 @@
 
 ### About The Project
 The Covid19 process has affected the whole world very badly. With this epidemic, which has been in our lives for a long time, a lot of data has been collected on a country basis. In this project, various images were obtained by analyzing data and a prediction model was created with Keras.
+With ```pip install requirements_linux.txt``` , you can install the modules and libraries used with their versions.
 
 ### Built with
 * Python
@@ -22,3 +23,10 @@ The following image was dynamically structured using the plotly library and save
 
 Cases and deaths for Turkey are compared in the plot below.
 <img src="visualization_results/LocationPlots/case_death_compare.png" width=800 height=400>
+
+### Model and Train
+The KerasTrainer class was created using the object-oriented program in the model.py file. It can be tested and results visualized using the visualize_predicts and is_testing arguments.
+```python3 train.py --is_testing --visualize_predicts```
+
+Result Plot;
+<img src="visualization_results/predict_validation_results/predictions.png.png" width=800 height=400>

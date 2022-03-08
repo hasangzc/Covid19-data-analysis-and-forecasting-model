@@ -29,4 +29,4 @@ The KerasTrainer class was created using the object-oriented program in the mode
 ```python3 train.py --is_testing --visualize_predicts```
 
 Result Plot;
-<img src="visualization_results/predict_validation_results/predictions.png.png" width=800 height=400>
+<img src="visualization_results/predict_validation_results/predictions.png" width=800 height=400>

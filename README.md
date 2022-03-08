@@ -25,7 +25,7 @@ Cases and deaths for Turkey are compared in the plot below.
 <img src="visualization_results/LocationPlots/case_death_compare.png" width=800 height=400>
 
 ### Model and Train
-The KerasTrainer class was created using the object-oriented program in the model.py file. It can be tested and results visualized using the visualize_predicts and is_testing arguments.
+The KerasTrainer class was created using the object-oriented program in the model.py file. It can be tested and results visualized using the visualize_predicts and is_testing arguments. After the train process, the model is saved in the saved_model folder with the .pkl extension.
 ```python3 train.py --is_testing --visualize_predicts```
 
 Result Plot;
